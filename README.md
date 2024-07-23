@@ -3,7 +3,14 @@
 ## 1. Airline Review
 
 ### Skills
-
+- Data Manipulation
+- Data Science
+- Data Visualisation
+- Machine Learning
+- Powerpoint
+- Python
+- Web Scraping
+  
 ### Task 1
 Web scraping and performing basic NLP operations and analysis on the review data.
 
